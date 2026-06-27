@@ -1,0 +1,14 @@
+{
+  "name": "Juan Carlos Almaguer Alfaro",
+  "title": "Software Engineer",
+  "description": "I build clean, well-documented software — from frontend interfaces to backend architecture.",
+  "location": "Guanajuato, México",
+  "cta": {
+    "label": "Ver proyectos",
+    "href": "#projects"
+  },
+  "social": [
+    { "label": "GitHub", "href": "https://github.com/jcalmaguer" },
+    { "label": "LinkedIn", "href": "https://linkedin.com/in/jcalmaguer" }
+  ]
+}
