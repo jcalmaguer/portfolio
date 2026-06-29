@@ -1,4 +1,4 @@
-import type { HeroData } from '../data/types'
+import type { HeroData } from '../types'
 
 function renderSocialLinks(social: HeroData['social']): string {
   return social.map(link => `
